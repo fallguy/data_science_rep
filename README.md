@@ -9,7 +9,7 @@ Directory Guide:
         * Data_Assessment_Powerpoint.pptx - to view findings report
 
 - final_project
-    * final_project_2013data_USETHISONE.ipynb - to view data final anslysis
+    * final_project_2013data_FINAL-reduced.ipynb - to view data final anslysis in condensed form
 
 - hw1 - ignore
 - HW2 - ignore
